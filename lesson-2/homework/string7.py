@@ -5,4 +5,4 @@ print(f"I like {sentc2} ")
 
 #I could not understand the logic of this problem so it might look meaningless. 
 #How do I know which word should I replace from the input?
-#Ya'ni eon't the grammar go wrong instantly?
+#Ya'ni won't the grammar go wrong instantly?
