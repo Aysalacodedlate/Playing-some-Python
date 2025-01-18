@@ -2,4 +2,5 @@
 num1 = input("Write the first number: ")
 num2 = input("Write the second number: ")
 num3 = input("Write the third number: ")
-num1, num2, num3
+num1, num2, num3 
+if num1 = input 
